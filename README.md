@@ -57,6 +57,6 @@ Why it matters: showcases real‑world mobile patterns — authentication, produ
 ---
 
 ## Contact
-- GitHub: https://github.com/AdityaUpadhyay2610
+- GitHub: https://github.com/AdityaUpadhyay26101
 - LinkedIn: https://www.linkedin.com/in/aditya-upadhyay-1822622b7
 - Email: aditya2610upadhyay@gmail.com
